@@ -1,3 +1,6 @@
+
+🔗 **Live App:** https://strokeprediction-ahyxktcamqxxcbxbvvvas7.streamlit.app/
+
 # Stroke Prediction — EDA, Classification & Clustering
 
 An end-to-end analysis of the Kaggle Stroke Prediction dataset: exploring 
