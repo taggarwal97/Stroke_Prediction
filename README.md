@@ -6,6 +6,7 @@ model (KNN) to predict stroke risk, and comparing five clustering
 techniques to identify natural risk-based patient segments.
 
 ## Project Structure
+```
 ├── data/
 │ ├── raw/ # Original Kaggle dataset
 │ └── processed/ # Cleaned & clustered data
@@ -19,6 +20,7 @@ techniques to identify natural risk-based patient segments.
 ├── app/
 │ └── streamlit_app.py # Interactive risk prediction app
 ├── requirements.txt
+```
 
 
 ## Key Findings
